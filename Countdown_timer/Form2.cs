@@ -74,7 +74,7 @@ namespace Countdown_timer
 
         private void btn_baslalt_Click(object sender, EventArgs e)
         {
-            if (saniye != 0 || dakika != 0)   
+            if (saniye != 0 || dakika != 0)   //maşn gelşltir
             {  //firstcommit 2.commit test yeni geiştimeis.
                 tmr_countdown.Start();
                 btn_baslalt.Enabled = false;
