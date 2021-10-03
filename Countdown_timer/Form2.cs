@@ -34,7 +34,7 @@ namespace Countdown_timer
             {
                 cbox_suresec.Items.Add(i);                                
             }            
-            btn_3pasif();
+            btn_3pasif();  //deneme
         }
 
         private void cbox_suresec_SelectedIndexChanged(object sender, EventArgs e)
