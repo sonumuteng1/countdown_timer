@@ -41,7 +41,7 @@ namespace Countdown_timer
         {
             cbox_sure_kontrol();
             if (saniye==0 && dakika==0)
-            {
+            {//omer  commit
                 btn_3pasif();
             }
             else if (saniye!=0 || dakika!=0)            
