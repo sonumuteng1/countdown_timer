@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\bin\Debug\Countdown_timer.exe.config
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\bin\Debug\Countdown_timer.exe
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\bin\Debug\Countdown_timer.pdb
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Countdown_timer.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Countdown_timer.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Countdown_timer.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Countdown_timer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Countdown_timer.exe
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Countdown_timer.pdb
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Countdown_timer.Form2.resources
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\obj\Debug\Countdown_timer.csproj.ResolveComReference.cache
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mehmet\Desktop\Countdown_timer\Countdown_timer\bin\Debug\AxInterop.WMPLib.dll
