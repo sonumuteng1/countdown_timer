@@ -78,7 +78,7 @@ namespace Countdown_timer
             {  //firstcommit 2.commit test yeni geiştimeis.
                 tmr_countdown.Start();
                 btn_baslalt.Enabled = false;
-                btn_durdur.Enabled = true;
+                btn_durdur.Enabled = true; // yeni geliştirme.
                 btn_sifirla.Enabled = false;
 
                 //hesap makinesi branch geliştirmesi.
