@@ -75,7 +75,7 @@ namespace Countdown_timer
         private void btn_baslalt_Click(object sender, EventArgs e)
         {
             if (saniye != 0 || dakika != 0)
-            {  //firstcommit
+            {  //firstcommit 2.commit
                 tmr_countdown.Start();
                 btn_baslalt.Enabled = false;
                 btn_durdur.Enabled = true;
