@@ -27,7 +27,7 @@ namespace Countdown_timer
         
         private void Form2_Load(object sender, EventArgs e)
         {            
-            cbox_suresec.Items.Add("Lütfen Süre Seçiniz!");
+            cbox_suresec.Items.Add("Lütfen Bir Süre Seçiniz!");
             cbox_suresec.SelectedIndex = 0;
             
             for (int i = 1; i < 60; i++)
