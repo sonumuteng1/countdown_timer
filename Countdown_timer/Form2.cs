@@ -80,6 +80,8 @@ namespace Countdown_timer
                 btn_baslalt.Enabled = false;
                 btn_durdur.Enabled = true;
                 btn_sifirla.Enabled = false;
+
+                //hesap makinesi branch geliştirmesi.
             }
             else 
             {
